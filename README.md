@@ -121,7 +121,7 @@ I select one of the captured Telnet packets, right-click, and choose **Follow â†
 ![14](https://imgur.com/9FoBUdG.png)
 ![15](https://imgur.com/H5bTH53.png)
 
-In this case, the **whoami** command was executed to confirm the user identity on the Ubuntu VM. While the username is visible, the password is encryptedâ€”demonstrating the vulnerability of Telnet as an insecure protocol for remote access.
+In this case, the **whoami** command was executed to confirm the user identity on the Ubuntu VM. While the username is visible, the password is also visible as well, as my password is the most insecure of them all, which is........ password! Overall this demonstrates the vulnerability of Telnet as an insecure protocol for remote access.
 
 ![16](https://imgur.com/ZZxuOu8.png)
 
